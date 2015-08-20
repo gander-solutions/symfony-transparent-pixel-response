@@ -1,0 +1,28 @@
+{
+    "name": "gander/transparent-pixel-response",
+    "description": "Transparent Pixel Response",
+    "keywords": ["package"],
+    "homepage": "http://gander.tools/",
+    "type": "library",
+    "require": {
+        "symfony/http-foundation": "^2.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam Gąsowski",
+            "email": "adam.gasowski@gander.pl",
+            "homepage": "http://www.gander.pl/"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Gander\\Tools\\TransparentPixelResponse\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
