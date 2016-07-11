@@ -1,6 +1,6 @@
 {
-    "name": "gander/transparent-pixel-response",
-    "description": "Transparent Pixel Response",
+    "name": "gander/symfony-transparent-pixel-response",
+    "description": "Symfony Transparent Pixel Response",
     "keywords": ["package", "pixel", "image", "transparent", "response", "tracking"],
     "homepage": "http://gander.tools/",
     "type": "library",
@@ -18,7 +18,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Gander\\Tools\\TransparentPixelResponse\\": "src/"
+            "Gander\\Symfony\\Component\\HttpFoundation\\": "src/"
         }
     },
     "extra": {

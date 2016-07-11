@@ -1,11 +1,11 @@
 <?php
-namespace Gander\Tools\TransparentPixelResponse;
+namespace Gander\Symfony\Component\HttpFoundation;
 
 use Symfony\Component\HttpFoundation\Response;
 
 /**
  * Class TransparentPixelResponse
- * @package Gander\Tools\TransparentPixelResponse
+ * @package Gander\Symfony\Component\HttpFoundation
  * @author Luciano Mammino <lucianomammino@gmail.com>
  * @author Adam Gąsowski <adam.gasowski@gander.pl>
  */
