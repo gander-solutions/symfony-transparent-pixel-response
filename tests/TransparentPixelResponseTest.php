@@ -4,7 +4,6 @@ namespace Gander\Symfony\Component\HttpFoundation;
 /**
  * Class TransparentPixelResponseTest
  * @package Gander\Symfony\Component\HttpFoundation
- * @author Luciano Mammino <lucianomammino@gmail.com>
  * @author Adam Gąsowski <adam.gasowski@gander.pl>
  */
 class TransparentPixelResponseTest extends \PHPUnit_Framework_TestCase

@@ -6,7 +6,7 @@ I used the example from article [Transparent pixel response with Symfony, how to
 
 ### Installation
 
-    composer require gander/transparent-pixel-response
+    composer require gander/symfony-transparent-pixel-response
 
 ### License
 
