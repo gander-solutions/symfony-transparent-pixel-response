@@ -11,5 +11,3 @@ I used the example from article [Transparent pixel response with Symfony, how to
 ### License
 
 The _Transparent Pixel Response_ is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
-
-[![Build Status](https://travis-ci.org/gander/symfony-transparent-pixel-response.svg?branch=master)](https://travis-ci.org/gander/symfony-transparent-pixel-response)

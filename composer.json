@@ -2,7 +2,7 @@
     "name": "gander/symfony-transparent-pixel-response",
     "description": "Symfony Transparent Pixel Response",
     "keywords": ["package", "pixel", "image", "transparent", "response", "tracking"],
-    "homepage": "http://gander.tools/",
+    "homepage": "https://gander.solutions/",
     "type": "library",
     "require": {
         "php": ">=5.3.9",
@@ -13,7 +13,7 @@
         {
             "name": "Adam Gąsowski",
             "email": "adam.gasowski@gander.pl",
-            "homepage": "http://www.gander.pl/"
+            "homepage": "https://gander.solutions/"
         }
     ],
     "autoload": {
